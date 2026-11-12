@@ -1,0 +1,16 @@
+{
+  "name": "motion-kit",
+  "owner": {
+    "name": "Aldair Murillo"
+  },
+  "plugins": [
+    {
+      "name": "motion-kit",
+      "source": "./",
+      "description": "Criterio de diseño y métodos de edición y motion graphics."
+    }
+  ],
+  "metadata": {
+    "description": "Criterio de diseño y métodos de edición, motion graphics y color para Claude Code."
+  }
+}
